@@ -1,7 +1,7 @@
 {
   "version": "0.4.7",
-  "installer_url": "https://github.com/ranivitoria98/neoconhub-updates/releases/download/v0.4.7/NeoconHub-Setup-0.4.7.exe",
+  "installer_url": "https://github.com/ranineocon/neoconhub-updates/releases/download/v0.4.7/NeoconHub-Setup-0.4.7.exe",
   "sha256": "661d5d9eaac0bfd550cc4ce6d6c4bc23f8a11656142fcc34b1d790f2a0f950fa",
   "notes": "Avisa automaticamente após o login quando uma nova versão do NEOCON HUB estiver disponível.",
-  "signature": "er/oaqTFLePSFhZBpBTcrFDHTMNEUlI+ruIl2xI+vUDzZA0RuDRFZT6X8wuu3jaJSyY4oC9nMkm4D5WUTEJAAw=="
+  "signature": "GA6nZLrtGtdfYZS6TjZ3HjqzSGMAPbvKiSdY6C31wYWOrmR6RvAFEmSPCDCh3/IGJZZi5sZ+icu00r4TQdhECA=="
 }
